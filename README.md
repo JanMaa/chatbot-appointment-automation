@@ -118,5 +118,5 @@ GOOGLE_APPS_SCRIPT_URL=your_google_script_webapp_url
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
-For inquiries, reach out at **your-email@example.com**
+Developed by **Janric Malate**  
+For inquiries, reach out at **janricmalate@gmail.com**
