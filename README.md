@@ -64,7 +64,7 @@ The bot collects user information (name, email, phone, type of service), confirm
 ---
 
 ## 🖼️ Bot Workflow Diagram
-![Botpress Flow](./bot-flow.png)  
+![Botpress Flow](./bot-flow.pg)  
 *(This diagram shows the chatbot conversation flow, including Calendly and Google Apps Script API integrations.)*  
 
 ---
