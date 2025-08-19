@@ -1,4 +1,4 @@
-# Chatbot Automation with Botpress, Calendly API, and Google Apps Script API
+# Appointment Automation Chatbot
 
 ## 📌 Overview
 This project is a **chatbot automation** built using **Botpress**, integrated with **Calendly API** for appointment scheduling and **Google Apps Script API** for lead management.  
@@ -63,7 +63,7 @@ The bot collects user information (name, email, phone, type of service), confirm
 
 ---
 
-## 🖼️ Bot Workflow Diagram
+## 🖼️ Appointment Automation Bot Workflow Diagram
 ![Botpress Flow](./bot-flow.png)  
 *(This diagram shows the chatbot conversation flow, including Calendly and Google Apps Script API integrations.)*  
 
